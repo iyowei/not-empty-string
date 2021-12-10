@@ -1,0 +1,33 @@
+{
+  "name": "@iyowei/not-empty-string",
+  "version": "1.0.0",
+  "description": "如果是字符串，并且非空，则返回 ，否则 。",
+  "main": "notEmptyString.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyowei/not-empty-string.git"
+  },
+  "keywords": [
+    "iyowei"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iyowei/not-empty-string/issues"
+  },
+  "homepage": "https://github.com/iyowei/not-empty-string#readme",
+  "type": "module",
+  "exports": "./notEmptyString.js",
+  "files": [
+    "notEmptyString.js"
+  ],
+  "engines": {
+    "node": ">=12.20.0"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
