@@ -22,13 +22,13 @@ console.log('notEmptyString(null)', notEmptyString(null)); // false
 
 ```shell
 # Pnpm
-pnpm add @iyowei/esm-not-empty-string
+pnpm add @iyowei/not-empty-string
 
 # yarn
-yarn add @iyowei/esm-not-empty-string
+yarn add @iyowei/not-empty-string
 
 # npm
-npm add @iyowei/esm-not-empty-string
+npm add @iyowei/not-empty-string
 ```
 
 ## 参与贡献
