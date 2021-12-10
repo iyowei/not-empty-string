@@ -1,6 +1,6 @@
 {
   "name": "@iyowei/not-empty-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "如果是字符串，并且非空，则返回 ，否则 。",
   "main": "notEmptyString.js",
   "scripts": {
