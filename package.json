@@ -3,9 +3,7 @@
   "version": "1.0.2",
   "description": "如果是字符串，并且非空（`''`），则返回 `true`，否则 `false`。",
   "main": "notEmptyString.js",
-  "scripts": {
-    "preinstall": "npx only-allow pnpm"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iyowei/not-empty-string.git"
